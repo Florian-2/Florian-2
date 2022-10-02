@@ -1,5 +1,8 @@
 <h1>Salut 👋, je m’appelle Florian et je suis développeur front-end</h1>
 
+-   🌱 Autodidacte, j'ai soif d'apprendre
+-   ⚡ Passion : Jeux vidéo, HardWare
+
 <h3>Prendre contact</h3>
 
 <a href="https://www.linkedin.com/in/florian-sicilia-4106b31ba" title="Profil LinkedIn">
