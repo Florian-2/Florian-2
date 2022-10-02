@@ -44,11 +44,8 @@
 
 <h3>📈 Github Stats</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Florian-2&hide=prs,contribs&count_private=true&show_icons=true&theme=discord_old_blurple " alt="Florian's GitHub stats" title="Florian's GitHub stats" align="left" />
-
-<br>
-<br>
+[![Florian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Florian-2&hide=prs,contribs&count_private=true&show_icons=true&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Top Langages</h3>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=glsl,astro,rust,go " alt="Florian's GitHub stats" align="left" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Florian-2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
