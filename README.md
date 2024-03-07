@@ -1,8 +1,5 @@
 <h1>Salut 👋, je m’appelle Florian et je suis développeur front-end</h1>
 
--   🌱 Autodidacte, j'ai soif d'apprendre
--   ⚡ Passion : Jeux vidéo, HardWare
-
 <h3>Prendre contact</h3>
 
 <a href="https://www.linkedin.com/in/florian-sicilia-4106b31ba" title="Profil LinkedIn">
@@ -20,27 +17,21 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" align="left" width="40" height="40" />
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" align="left" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" align="left" width="40" height="40" />
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" align="left" width="40" height="40" />
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" align="left" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" align="left" width="40" height="40" />
 
-<img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" align="left" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Nextjs" align="left" width="40" height="40" />
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" align="left" width="40" height="40" />
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" align="left" width="40" height="40" />
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" align="left" width="40" height="40" />
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="xd" align="left" width="40" height="40" />
 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" align="left" width="40" height="40" />
 
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" align="left" width="40" height="40" />
-
-<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" align="left" width="40" height="40" style />
 
 <br>
 <br>
