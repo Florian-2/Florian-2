@@ -37,10 +37,6 @@
 <br>
 <br>
 
-<h3>📈 Github Stats</h3>
-
-[![Florian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Florian-2&hide=prs,contribs&count_private=true&show_icons=true&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
-
 <h3 align="left">Top Langages</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Florian-2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
